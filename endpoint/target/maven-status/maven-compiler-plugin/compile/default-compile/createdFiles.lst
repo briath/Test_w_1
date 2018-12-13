@@ -1,0 +1,15 @@
+ru\nsu\fit\endpoint\service\manager\PlanManager.class
+ru\nsu\fit\endpoint\rest\CustomApplication.class
+ru\nsu\fit\endpoint\service\database\data\Plan.class
+ru\nsu\fit\endpoint\service\database\data\Customer.class
+ru\nsu\fit\endpoint\rest\RestService.class
+ru\nsu\fit\endpoint\rest\AuthenticationFilter.class
+ru\nsu\fit\endpoint\service\MainFactory.class
+ru\nsu\fit\endpoint\service\database\data\Subscription.class
+ru\nsu\fit\endpoint\service\manager\SubscriptionManager.class
+ru\nsu\fit\endpoint\shared\JsonMapper.class
+ru\nsu\fit\endpoint\rest\GsonMessageBodyHandler.class
+ru\nsu\fit\endpoint\service\manager\ParentManager.class
+ru\nsu\fit\endpoint\service\manager\CustomerManager.class
+ru\nsu\fit\endpoint\shared\Globals.class
+ru\nsu\fit\endpoint\service\database\DBService.class

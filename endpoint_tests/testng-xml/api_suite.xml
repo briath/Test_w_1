@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="1" name="API Tests" annotations="JDK" parallel="tests">
+    <test name="BuildVerificationTest">
+        <classes>
+            <class name="ru.nsu.fit.tests.api.BuildVerificationTest" />
+        </classes>
+    </test>
+</suite>
